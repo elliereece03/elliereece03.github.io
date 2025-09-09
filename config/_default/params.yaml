@@ -64,7 +64,7 @@ header:
       text: 'Get Started'
       url: 'https://hugoblox.com/templates/'
     show_name: false
-    show_search: true
+    show_search: false
     show_theme_chooser: true
       
 # Site footer
