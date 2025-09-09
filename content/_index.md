@@ -82,7 +82,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-          link:
+        link:
             icon: search
             icon_pack: fas
             text: Find out more
