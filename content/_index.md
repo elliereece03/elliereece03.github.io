@@ -1,15 +1,15 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-09-09
 type: landing
 
 sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Quantum Materials Astroparticle Physics Research Group
-        content: Take a look at what we're working on...
+      - title: QuMAP - Quantum Materials and Astroparticle Physics
+        content: 'See what we are working on...'
         align: center
         background:
           image:
@@ -18,8 +18,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        
+      - title: Dark Matter Detection
+        content: 'INSERT INFO HERE'
         align: left
         background:
           image:
@@ -28,8 +29,20 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        
+      - title: Dark Matter Detection
+        content: 'INSERT INFO HERE'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        
+      - title: Superfluids
+        content: 'INSERT INFO HERE'
         align: right
         background:
           image:
@@ -43,6 +56,17 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+        
+      - title: AI Designed Molecules
+        content: 'INSERT INFO HERE'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
