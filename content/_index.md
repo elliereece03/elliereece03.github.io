@@ -18,11 +18,18 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      link:
-        icon: search
-        icon_pack: fas
-        text: Find out more
-        url: '#contact'
+
+      - title: Dark Matter Detection
+        content: 'INSERT INFO HERE'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+
         
       - title: Dark Matter Detection
         content: 'INSERT INFO HERE'
@@ -34,27 +41,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        link:
-          icon: search
-          icon_pack: fas
-          text: Find out more
-          url: '#contact'
-        
-      - title: Dark Matter Detection
-        content: 'INSERT INFO HERE'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-        link:
-          icon: search
-          icon_pack: fas
-          text: Find out more
-          url: '#contact'
+
         
       - title: Superfluids
         content: 'INSERT INFO HERE'
@@ -82,12 +69,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        link:
-            icon: search
-            icon_pack: fas
-            text: Find out more
-            url: '#contact'
-        
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
