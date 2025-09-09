@@ -43,7 +43,7 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      image: "assets/media/LogoQMAP.png"   # Path relative to /static folder
+      image: "LogoQMAP.png"   # Path relative to /static folder
       alt: "My Website Logo"
       show_name: false         # hides the textual site title
       
