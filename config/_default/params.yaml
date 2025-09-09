@@ -53,7 +53,7 @@ header:
   navbar:
     enable: true
     block: 'navbar'
-    align: 'center'
+    align: r
     fixed_to_top: true
     logo:
       text: ''
@@ -63,6 +63,7 @@ header:
       enable: true
       text: 'Get Started'
       url: 'https://hugoblox.com/templates/'
+    show_name: false
     show_search: true
     show_theme_chooser: true
       
