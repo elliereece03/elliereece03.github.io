@@ -55,7 +55,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: '#contact'
         
       - title: AI Designed Molecules
         content: 'INSERT INFO HERE'
@@ -77,6 +77,7 @@ sections:
       interval: 2000
 
   - block: hero
+    id: contact
     content:
       title: |
         QuMAP Research Group
