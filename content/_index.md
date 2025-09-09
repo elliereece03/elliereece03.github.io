@@ -81,7 +81,7 @@ sections:
       title: |
         QuMAP Research Group
       image:
-        filename: LogoQMAP.png
+        filename: LogoQMAPBlank.png
       text: |
         <br>
         
