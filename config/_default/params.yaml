@@ -35,20 +35,6 @@ marketing:
 
 # Site header
 
-#header:
- # navbar:
-   # enable: true
-   # align: r
-   # show_logo: true
-   # show_language: false
-   # show_day_night: true
-   # show_search: true
-   # highlight_active_link: false
-   # logo:
-    #  image: "LogoQMAPBlank.png"   # Path relative to /static folder
-    #  alt: "My Website Logo"
-    #  show_name: false         # hides the textual site title
-
 header:
   navbar:
     enable: true
