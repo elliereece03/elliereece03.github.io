@@ -52,18 +52,11 @@ marketing:
 header:
   navbar:
     enable: true
-    block: 'navbar'
     align: r
     fixed_to_top: true
     logo:
-      text: ''
-      # Logo filename in `assets/media/` folder
-      filename: 'LogoQMAPBlank.png'
-    button:
-      enable: true
-      text: 'Get Started'
-      url: 'https://hugoblox.com/templates/'
-    show_name: false
+      filename: 'LogoQMAPBlank.png'  # Must live in assets/media/
+    show_name: false   # hides the text site name
     show_search: false
     show_theme_chooser: true
       
