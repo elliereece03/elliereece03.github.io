@@ -123,8 +123,10 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
+ theme_day: minimal
+ theme_night:
+ font: native
+ font_size: M
 
 # SEO
 marketing:
