@@ -9,10 +9,7 @@ sections:
     id: contact
     content:
       images:
-        - filename: LogoQMAPBlank.png
-        - filename: UoL_Logo.png
-
-    
+        - filename: Newlogofull.svg
 
 
   - block: slider
