@@ -10,6 +10,7 @@ sections:
     content:
       image:
         filename: LogoQMAPBlank.png
+      position: center
 
 
   - block: slider
