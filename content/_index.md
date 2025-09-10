@@ -82,10 +82,10 @@ sections:
   - block: hero
     id: contact
     content:
-      title: |
-        QuMAP Research Group
       image:
         filename: LogoQMAPBlank.png
+      title: |
+        QuMAP Research Group
       text: |
         <br>
         
