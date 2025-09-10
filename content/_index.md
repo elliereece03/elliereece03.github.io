@@ -10,12 +10,7 @@ sections:
     content:
       image:
         filename: LogoQMAPBlank.png
-      title: |
-        QuMAP Research Group
-      text: |
-        <br>
-        
-        Intro bits here
+
 
   - block: slider
     content:
