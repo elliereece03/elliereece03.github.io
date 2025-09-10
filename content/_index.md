@@ -6,11 +6,9 @@ type: landing
 
 sections:
   - block: hero
-    id: contact
     content:
       images:
         - filename: Newlogofull.svg
-
 
   - block: slider
     content:
@@ -31,23 +29,33 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#dmd'
 
         
-      - title: Dark Matter Detection
+      - title: New Detection Mechanism
         content: 'INSERT INFO HERE'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#newdetection'
 
         
       - title: Superfluids
@@ -55,7 +63,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.5
           position: center
@@ -64,18 +72,23 @@ sections:
           icon: search
           icon_pack: fas
           text: Find out more
-          url: '#contact'
+          url: '#superfluids'
         
       - title: AI Designed Molecules
         content: 'INSERT INFO HERE'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#AI'
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -87,16 +100,48 @@ sections:
       interval: 2000
 
   - block: hero
-    id: contact
+    id: dmd
     content:
       image:
         filename: LogoQMAPBlank.png
       title: |
-        QuMAP Research Group
+        Dark Matter Detection
       text: |
         <br>
-        
-        Intro bits here!!!!!!!!!!!
+        DETAILS
+    
+  - block: hero
+    id: newdetection
+    content:
+      image:
+        filename: LogoQMAPBlank.png
+      title: |
+        New Detection Mechanism
+      text: |
+        <br>
+        DETAILS
+    
+  - block: hero
+    id: superfluids
+    content:
+      image:
+        filename: LogoQMAPBlank.png
+      title: |
+        Superfluids
+      text: |
+        <br>
+        DETAILS
+
+  - block: hero
+    id: AI
+    content:
+      image:
+        filename: LogoQMAPBlank.png
+      title: |
+        AI Molecules
+      text: |
+        <br>
+        DETAILS
   
   - block: collection
     content:
