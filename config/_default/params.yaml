@@ -156,7 +156,7 @@ header:
     logo:
       text: ''
       # Logo filename in `assets/media/` folder
-      filename: 'svg_logo.svg'
+      filename: 'LogoQMAPBlank.png'
     button:
       enable: true
       text: 'Get Started'
