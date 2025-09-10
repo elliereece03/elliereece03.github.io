@@ -41,7 +41,7 @@ header:
     align: r
     fixed_to_top: true
     logo:
-      filename: 'LogoQMAPBlank.png'  # Must live in assets/media/
+      filename: 'newnewlogo.png'  # Must live in assets/media/
     show_name: false   # hides the text site name
     show_search: false
     show_theme_chooser: true
