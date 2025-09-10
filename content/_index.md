@@ -10,7 +10,9 @@ sections:
     content:
       image:
         filename: LogoQMAPBlank.png
-      position: center
+      image:
+        filename: UoL_Logo.png
+    
 
 
   - block: slider
