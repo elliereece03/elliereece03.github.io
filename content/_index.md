@@ -8,6 +8,7 @@ sections:
   - block: hero
     id: contact
     content:
+    align: center
       image:
         filename: LogoQMAPBlank.png
 
