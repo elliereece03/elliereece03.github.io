@@ -8,10 +8,10 @@ sections:
   - block: hero
     id: contact
     content:
-      image:
-        filename: LogoQMAPBlank.png
-      image:
-        filename: UoL_Logo.png
+      images:
+        - filename: LogoQMAPBlank.png
+        - filename: UoL_Logo.png
+
     
 
 
