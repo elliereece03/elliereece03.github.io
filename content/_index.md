@@ -5,6 +5,18 @@ date: 2025-09-09
 type: landing
 
 sections:
+  - block: hero
+    id: contact
+    content:
+      image:
+        filename: LogoQMAPBlank.png
+      title: |
+        QuMAP Research Group
+      text: |
+        <br>
+        
+        Intro bits here
+
   - block: slider
     content:
       slides:
