@@ -4,11 +4,6 @@ title:
 date: 2025-09-09
 type: landing
 
-sections:
-  - block: hero
-    content:
-      images:
-        - filename: Newlogofull.svg
 
   - block: slider
     content:
